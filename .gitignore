@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+
+# Ignore top-level directories that begin with __, used by personal convention
+# to hold ignorable file trees.
+/__*/
